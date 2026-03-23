@@ -15,10 +15,7 @@ Esse tipo de funcionalidade é amplamente utilizado em redes sociais, aplicativo
 ---
 
 ## 🏗️ Arquitetura
-
-```
-Client → API Gateway → AWS Lambda (handler.js) → metadataService.js → parser.js → Resposta JSON
-```
+![Diagrama de Arquitetura](./assets/architecture.png)
 
 ### Fluxo detalhado
 
