@@ -15,7 +15,8 @@ Esse tipo de funcionalidade é amplamente utilizado em redes sociais, aplicativo
 ---
 
 ## 🏗️ Arquitetura
-![Diagrama de Arquitetura](./assets/architecture.png)
+<img width="634" height="116" alt="url-metadata-api" src="https://github.com/user-attachments/assets/4833d6ae-8173-466d-9d29-293880df4435" />
+
 
 ### Fluxo detalhado
 
